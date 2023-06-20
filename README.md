@@ -1,6 +1,6 @@
 # Unity-Game
 
-A game created in Unity using C#. This repo contains some showcase scripts out of the entire source code of the game.
+A game I developed in Unity using C#. This repo contains some showcase scripts out of the entire source code of the game.
 
 Here is a short preview video of the game:
 
